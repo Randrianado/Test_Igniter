@@ -1,0 +1,21 @@
+svg{
+    height: 45px;
+}
+body{
+    margin:20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+}
+h1.bb{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: brown;
+    text-decoration: underline;
+    text-transform: uppercase;
+}   
+a{
+    text-decoration: none;
+    color: #121212;
+}
